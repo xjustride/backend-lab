@@ -6661,11 +6661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\UnitTest\\UnitTest.csproj",
+      "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\remo2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\remo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6682,11 +6682,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\remo2\\Desktop\\backend-lab\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
