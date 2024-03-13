@@ -22,13 +22,20 @@
 
         public string GetConnectionIdByName(string username)
         {
-            string connectionId = string.Empty;
-            return connectionId;
+            foreach (var (id, name) in _users)
+            {
+                if (name == username)
+                {
+                    return id;
+                }
+            }
+
+            return "";
         }
 
         public IEnumerable<(string ConnectionId, string Username)> GetAll()
         {
-
+             return _users.Select(u => (u.Value, u.Key));
         }
     }
 }
