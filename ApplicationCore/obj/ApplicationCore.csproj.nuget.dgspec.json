@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {}
+    "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\remo2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\wsei-backend-lab-lab-01\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
