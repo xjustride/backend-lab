@@ -68,6 +68,8 @@ else
     // list of messages in chat
     private List<Message> _messages = new List<Message>();
 
+    private string _to;
+
     private string _hubUrl;
     private HubConnection _hubConnection;
 
@@ -137,11 +139,17 @@ else
         UserService.RemoveByName(_username);
     }
 
+    private void PrivateMessage(string name, string message)
+    {
+        _messages.Add(new Message(name, $"[Private]: {message}", false));
+    }
+
     private async Task SendAsync(string message)
     {
         if (_isChatting && !string.IsNullOrWhiteSpace(message))
         {
             await _hubConnection.SendAsync("Broadcast", _username, message);
+            _hubConnection.On<string, string>("Private", PrivateMessage);
 
             _newMessage = string.Empty;
         }
