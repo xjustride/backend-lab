@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKPoulP8kTHDw2ayoTqbLIAptqnm1zjIj35NaoT0vlzbbcoizH5H6IcxCbQWc2PQUeHwQuS+1r6Z6DzzuvndfQ==",
+  "dgSpecHash": "EB+4s+5fgAfa7Y4hStUsS0G5I5TgereXOB/anbnr+71ulGjYjg3Y3ST+jxRb7ge9QkyOk0/+PYMU0arwBQ5P1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\remo2\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\remo2\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

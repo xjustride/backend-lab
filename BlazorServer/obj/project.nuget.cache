@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QxIzOCE2eGm3rlOODHbvT0v5hThqbvzqPULVdUcDb7npoiTxwYZ+fTJf5KnoJm1iYQtZG8YBeTCo6pOvzHpfTQ==",
+  "dgSpecHash": "sGuOL/bE2nTidwxnGQCkBHGkmxrqnmtwdMH2zFilzQ3TUmpOJCxDrHeuy5a6UJiM0DYqmmsBkcdMUsB1RYg/0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\remo2\\Desktop\\backend-lab\\BlazorServer\\BlazorServer.csproj",
+  "projectFilePath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\BlazorServer\\BlazorServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\remo2\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.7\\microsoft.aspnetcore.connections.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\remo2\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.7\\microsoft.aspnetcore.http.connections.client.3.1.7.nupkg.sha512",

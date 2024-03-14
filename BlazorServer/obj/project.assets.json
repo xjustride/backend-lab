@@ -648,11 +648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\remo2\\Desktop\\backend-lab\\BlazorServer\\BlazorServer.csproj",
+      "projectUniqueName": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\BlazorServer\\BlazorServer.csproj",
       "projectName": "BlazorServer",
-      "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\BlazorServer\\BlazorServer.csproj",
+      "projectPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\BlazorServer\\BlazorServer.csproj",
       "packagesPath": "C:\\Users\\remo2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\BlazorServer\\obj\\",
+      "outputPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\BlazorServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\remo2\\AppData\\Roaming\\NuGet\\NuGet.Config",

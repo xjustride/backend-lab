@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\UnitTest.csproj": {}
+    "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\UnitTest\\UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\remo2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\remo2\\Desktop\\backend-lab\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remo2\\Desktop\\backend-lab\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\remo2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }
@@ -124,14 +124,14 @@
         }
       }
     },
-    "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\UnitTest.csproj": {
+    "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\UnitTest\\UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\UnitTest\\UnitTest.csproj",
         "projectName": "UnitTest",
-        "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\UnitTest.csproj",
+        "projectPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\UnitTest\\UnitTest.csproj",
         "packagesPath": "C:\\Users\\remo2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\UnitTest\\obj\\",
+        "outputPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\remo2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,11 +148,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\Users\\remo2\\Desktop\\backend-lab\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\remo2\\Desktop\\backend-lab\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\remo2\\Desktop\\Programowanie\\backend-lab\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
