@@ -109,6 +109,7 @@ else
             _message = $"ERROR: Failed to start chat client: {e.Message}";
             _isChatting = false;
         }
+        UserService.Add(_hubConnection.ConnectionId, _username);
     }
 
     private void BroadcastMessage(string name, string message)
@@ -133,6 +134,7 @@ else
             _hubConnection = null;
             _isChatting = false;
         }
+        UserService.RemoveByName(_username);
     }
 
     private async Task SendAsync(string message)
