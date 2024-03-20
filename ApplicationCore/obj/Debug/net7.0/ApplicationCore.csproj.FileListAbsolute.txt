@@ -21,3 +21,15 @@ C:\Users\remo2\Desktop\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationC
 C:\Users\remo2\Desktop\backend-lab\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
 C:\Users\remo2\Desktop\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
 C:\Users\remo2\Desktop\backend-lab\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.deps.json
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.dll
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.pdb
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.dll
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
+C:\Users\remo2\Desktop\Programowanie\backend-lab\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
