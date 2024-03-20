@@ -1,6 +1,7 @@
 ﻿using ApplicationCore.Interfaces.UserService;
 using ApplicationCore.Models.QuizAggregate;
 using Microsoft.AspNetCore.Mvc;
+using WebApi.DTO;
 
 namespace WebApi.Controllers
 {
@@ -16,14 +17,14 @@ namespace WebApi.Controllers
 
         [HttpGet]
         [Route("{id}")]
-        public ActionResult<Quiz?> GetQuizById(int id) 
+        public ActionResult<QuizDTO?> GetQuizById(int id) 
         {
             var result = (_userService.FindQuizById(id));
             if (result == null) 
             {
                 return NotFound();  
             }
-            return result;
+            return QuizDTO.Of(result);
         }
     }
 }
